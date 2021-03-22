@@ -4,3 +4,5 @@ if hungry == "yes":
     print("might be bad for health")
 else:
     print("dont eat okay")
+    print("but drink soda")
+    print("drink sharbat")
